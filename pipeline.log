@@ -1,0 +1,5 @@
+2026-05-15 00:14:19  INFO      __main__              Loaded 1073 rows × 10 columns. Nulls: {'city': 4, 'display_address': 108, 'google_place_id': 5, 'latitude': 1, 'longitude': 1, 'price_point': 206, 'website': 15}
+2026-05-15 00:14:19  INFO      cleaning              Cleaning complete — 1073 → 1036 rows (37 duplicates removed).
+2026-05-15 00:14:19  INFO      __main__              Saved 1036 rows → output\restaurants_clean.csv
+2026-05-15 00:14:19  INFO      enrichment            Enrichment complete — romantic_score mean=4.39, median=4.10.
+2026-05-15 00:14:19  INFO      __main__              Saved 1036 rows → output\restaurants_enriched.csv
